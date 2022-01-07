@@ -1,0 +1,12 @@
+Source: ros-melodic-tracer-base
+Section: misc
+Priority: optional
+Maintainer: WestonRobot <info@westonrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-roscpp, ros-melodic-roslaunch, ros-melodic-roslint, ros-melodic-sensor-msgs, ros-melodic-tracer-msgs, ros-melodic-ugv-sdk
+Homepage: https://github.com/agilexrobotics
+Standards-Version: 3.9.2
+
+Package: ros-melodic-tracer-base
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-controller-manager, ros-melodic-geometry-msgs, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-topic-tools, ros-melodic-tracer-msgs, ros-melodic-ugv-sdk
+Description: AgileX Tracer robot driver
