@@ -1,0 +1,12 @@
+Source: ros-melodic-tracer-bringup
+Section: misc
+Priority: optional
+Maintainer: Ruixiang Du <ruixiang.du@westonrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-std-msgs
+Homepage: https://github.com/agilexrobotics
+Standards-Version: 3.9.2
+
+Package: ros-melodic-tracer-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-std-msgs
+Description: The tracer_bringup package
