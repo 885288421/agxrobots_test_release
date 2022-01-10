@@ -1,0 +1,22 @@
+ros-melodic-tracer-base (0.0.3-7bionic) bionic; urgency=high
+
+  * add async_port
+  * Contributors: mailto:tang___xi@163.com
+
+ -- WestonRobot <info@westonrobot.com>  Wed, 29 Dec 2021 16:00:00 -0000
+
+ros-melodic-tracer-base (0.0.2-7bionic) bionic; urgency=high
+
+  * add url
+  * Contributors: mailto:tang___xi@163.com
+
+ -- WestonRobot <info@westonrobot.com>  Tue, 28 Dec 2021 16:00:00 -0000
+
+ros-melodic-tracer-base (0.0.1-7bionic) bionic; urgency=high
+
+  * first commit
+  * Contributors: mailto:tang___xi@163.com
+
+ -- WestonRobot <info@westonrobot.com>  Mon, 20 Dec 2021 16:00:00 -0000
+
+
