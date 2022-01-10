@@ -1,0 +1,12 @@
+Source: ros-melodic-ugv-sdk
+Section: misc
+Priority: optional
+Maintainer: Ruixiang Du <ruixiang.du@westonrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-async-port, ros-melodic-catkin
+Homepage: https://www.westonrobot.com/
+Standards-Version: 3.9.2
+
+Package: ros-melodic-ugv-sdk
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-async-port
+Description: Weston Robot Platform SDK
