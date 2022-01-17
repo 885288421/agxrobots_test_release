@@ -1,3 +1,39 @@
+## agxrobots_test (melodic) - 0.0.3-10
+
+The packages in the `agxrobots_test` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic agxrobots_test --edit` on `Mon, 17 Jan 2022 02:27:00 -0000`
+
+These packages were released:
+- `async_port`
+- `hunter_base`
+- `hunter_bringup`
+- `hunter_msgs`
+- `scout_base`
+- `scout_bringup`
+- `scout_msgs`
+- `tracer_base`
+- `tracer_bringup`
+- `tracer_description`
+- `tracer_gazebo_sim`
+- `tracer_msgs`
+- `ugv_sdk`
+
+Version of package(s) in repository `agxrobots_test`:
+
+- upstream repository: https://github.com/885288421/agxrobots_test.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.3-9`
+- new version: `0.0.3-10`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## agxrobots_test (melodic) - 0.0.3-9
 
 The packages in the `agxrobots_test` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic agxrobots_test --edit` on `Wed, 12 Jan 2022 06:17:29 -0000`
