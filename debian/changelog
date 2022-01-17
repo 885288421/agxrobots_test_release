@@ -1,0 +1,22 @@
+ros-melodic-tracer-description (0.0.3-11bionic) bionic; urgency=high
+
+  * add async_port
+  * Contributors: mailto:tang___xi@163.com
+
+ -- rdu <support@agilex.ai>  Wed, 29 Dec 2021 16:00:00 -0000
+
+ros-melodic-tracer-description (0.0.2-11bionic) bionic; urgency=high
+
+  * add url
+  * Contributors: mailto:tang___xi@163.com
+
+ -- rdu <support@agilex.ai>  Tue, 28 Dec 2021 16:00:00 -0000
+
+ros-melodic-tracer-description (0.0.1-11bionic) bionic; urgency=high
+
+  * first commit
+  * Contributors: mailto:tang___xi@163.com
+
+ -- rdu <support@agilex.ai>  Mon, 20 Dec 2021 16:00:00 -0000
+
+
